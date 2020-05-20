@@ -2,9 +2,9 @@ import axios from 'axios'
 
 export default {
   userLogin(payload) {
-    return axios.post('/login', payload)
+    return axios.post('API/auth/login', payload)
   },
   refreshToken() {
-    return axios.get('/token')
+    return axios.get('API/auth/token')
   }
 }
