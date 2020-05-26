@@ -101,12 +101,12 @@
     "CONFIRM_PASSWORD": "Confirm Password"
   },
   "landing": {
-    "TITLE": "Landing",
-    "DESCRIPTION": "This page is publicly available.",
+    "TITLE": "Reeset",
+    "DESCRIPTION": "Creative developer",
     "BUY_ME_A_COFFEE": "Buy me a coffee",
-    "BUY_ME_A_COFFEE_DESCRIPTION": "I'm doing my best to provide you a good experience when using my apps, so if you like what I'm doing and wish to say \"thanks!\", please click the button and buy me a coffee.",
-    "DESCRIPTION_VUE": "This project is created to help other web developers create a basic VueJS app in an easy way.",
-    "DESCRIPTION_API": "Demo is also linked to a Node.js express.js MongoDB JWT REST API project that shows how this frontend can be integrated to an API.",
+    "BUY_ME_A_COFFEE_DESCRIPTION": "As a Creative Developer my work in focused multidisciplinary teams, conceptualizing, and developing innovative solutions for different clients. My role is to apply new technologies in a creative way for product-service solutions and engaging digital interactions. I belong to a solid network of experts with whom I work on a range of project types: from hands-on prototyping to contributing to large-scale and complex solutions.",
+    "DESCRIPTION_VUE": "able to create and realize captivating experiences within a team of front-end developers",
+    "DESCRIPTION_API": " experience in 2D & 3D graphics will play a vital role in all web projects that need rich visual effects with A visual aesthetic and sense of design for animation ",
     "API_DOCUMENTATION": "API documentation",
     "FRONTEND_DOCUMENTATION": "Frontend documentation"
   },
