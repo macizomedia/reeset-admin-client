@@ -101,13 +101,13 @@
     "CONFIRM_PASSWORD": "Confirm Password"
   },
   "landing": {
-    "TITLE": "Reeset",
-    "DESCRIPTION": "Creative developer",
-    "BUY_ME_A_COFFEE": "Buy me a coffee",
+    "TITLE": "Blas Oronoz",
+    "DESCRIPTION": "Holistic Creative developer",
+    "BUY_ME_A_COFFEE": "Hi! I am a Project Manager & I focus on develop innovative Digital Business Models base on Ethereum & Node.js",
     "BUY_ME_A_COFFEE_DESCRIPTION": "As a Creative Developer my work in focused multidisciplinary teams, conceptualizing, and developing innovative solutions for different clients. My role is to apply new technologies in a creative way for product-service solutions and engaging digital interactions. I belong to a solid network of experts with whom I work on a range of project types: from hands-on prototyping to contributing to large-scale and complex solutions.",
-    "DESCRIPTION_VUE": "able to create and realize captivating experiences within a team of front-end developers",
-    "DESCRIPTION_API": " experience in 2D & 3D graphics will play a vital role in all web projects that need rich visual effects with A visual aesthetic and sense of design for animation ",
-    "API_DOCUMENTATION": "API documentation",
+    "DESCRIPTION_VUE": "I am able to create and realize captivating experiences within a team of front-end developers",
+    "DESCRIPTION_API": "With 10 years of experience in 2D & 3D graphics I make sure that all the projects that need rich visual effects with A visual aesthetic and sense of design for animation met their engaging goal",
+    "API_DOCUMENTATION": "An articulate communicator - one who can create or contribute to concepts, hands-on development and management of technical details of a large account or project, and mentor other developers internally or guide an external vendor",
     "FRONTEND_DOCUMENTATION": "Frontend documentation"
   },
   "home": {

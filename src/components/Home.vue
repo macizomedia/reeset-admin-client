@@ -36,6 +36,7 @@
 </template>
 
 <script>
+import db from '../firebase/init'
 export default {
   metaInfo() {
     return {
@@ -45,9 +46,22 @@ export default {
   },
   data() {
     return {
+      projects: [],
       name: this.$store.state.auth.user.name,
       showVerifyDialog: !this.$store.state.verify.emailVerified
     }
+  },
+  created() {
+    db.collection('projects')
+      .get()
+      .then((snapshot) => {
+        snapshot.forEach((doc) => {
+          console.log(doc.id, '=>', doc.data())
+        })
+      })
+      .catch((err) => {
+        console.log('Error getting documents', err)
+      })
   }
 }
 </script>
