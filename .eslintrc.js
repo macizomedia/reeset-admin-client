@@ -18,7 +18,7 @@ module.exports = {
     'no-console': process.env.NODE_ENV === 'production' ? 'error' : 'off',
     'no-debugger': process.env.NODE_ENV === 'production' ? 'error' : 'off',
     'no-unused-variable':
-      process.env.NODE_ENV === 'production' ? 'error' : 'off',
+      process.env.NODE_ENV === 'development' ? 'error' : 'off',
     'callback-return': [
       'error',
       ['done', 'proceed', 'next', 'onwards', 'callback', 'cb']
